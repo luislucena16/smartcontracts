@@ -1,0 +1,23 @@
+{
+  "name": "smartcontracts-marketplace",
+  "version": "1.0.0",
+  "description": "This repository will contain smart contracts for use in different use cases, NFTs, Marketplaces, Multi-Signature Gnosis, Staking, Rewards, Referrals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luislucena16/smartcontracts-marketplace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luislucena16/smartcontracts-marketplace/issues"
+  },
+  "homepage": "https://github.com/luislucena16/smartcontracts-marketplace#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.6"
+  }
+}
